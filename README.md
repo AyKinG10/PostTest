@@ -32,7 +32,7 @@ composer install
 php artisan optimize
 ```
 ### Migrate 
-- firstly write yout database config in .env, then write this command
+- firstly write your database config in .env, then write this command
 ```bash
 php artisan migrate
 ```
